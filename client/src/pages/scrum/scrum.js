@@ -1,7 +1,7 @@
 import React from "react";
 
 function Scrum() {
-  return <div>Scrumeeeewfe</div>;
+  return <div>Scrumeeeewe</div>;
 }
 
 export default Scrum;
